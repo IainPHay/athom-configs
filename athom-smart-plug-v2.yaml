@@ -17,7 +17,7 @@ esp8266:
   restore_from_flash: true
   
 preferences:
-  flash_write_interval: 180secs
+  flash_write_interval: 180sec
 
 api:
 
